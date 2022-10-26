@@ -1,0 +1,117 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    background: #09011a;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+h2{
+    font-size: 9vmin;
+}
+.section1
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: flex-start; */
+    /* margin-top: 25rem; */
+    height: 100vh;
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+
+    font-size: 7vmin;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+
+
+.section2
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    width: 40vw;
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    margin-left: 40vw;
+    font-size: 2vmin;
+    padding-left: 10%;
+    padding-right: 8%;
+}
+.section3
+{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+
+    font-size: 7vmin;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.section4
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    width: 40vw;
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    margin-left: 40vw;
+    font-size: 2vmin;
+    padding-left: 10%;
+    padding-right: 8%;
+}
+.section5
+{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+
+    font-size: 7vmin;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.section6
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    width: 40vw;
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    margin-left: 40vw;
+    font-size: 2vmin;
+    padding-left: 10%;
+    padding-right: 8%;
+}
